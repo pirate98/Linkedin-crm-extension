@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Linked-In CRM (leaddelta clone)",
   "description": "A clean, organised CRM for linkedIN.",
-  "author": "atul gairola",
+  "author": "astronaut",
   "version": "2",
   "background": { "service_worker": "background.bundle.js" },
   "action": {
